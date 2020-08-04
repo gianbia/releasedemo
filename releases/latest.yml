@@ -1,0 +1,8 @@
+version: 8.31.3
+files:
+  - url: ElectronNET-API-Demos-Setup-8.31.3.exe
+    sha512: DwwEfTh0mNAD8iMIy7B9vEPko0/Fh+FmPW5wu6QIYZ3Ohdntp9a4a/jpiJz/0y6KQn17K8GVhJawSW5VlfawyA==
+    size: 94910023
+path: ElectronNET-API-Demos-Setup-8.31.3.exe
+sha512: DwwEfTh0mNAD8iMIy7B9vEPko0/Fh+FmPW5wu6QIYZ3Ohdntp9a4a/jpiJz/0y6KQn17K8GVhJawSW5VlfawyA==
+releaseDate: '2020-08-04T10:03:37.251Z'
